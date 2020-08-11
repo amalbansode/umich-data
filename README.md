@@ -9,7 +9,7 @@ kids like me to make data visualizations.
 
 Title | Link to UMich Source | Notes
 --- | --- | ---
-Budget’s General Fund Revenues and Expenditures | https://provost.umich.edu/budgeting/budget.html | CSV contains Adjusted Budget figures for each FY
+Budget’s General Fund Revenues and Expenditures (Ann Arbor Campus) | https://provost.umich.edu/budgeting/budget.html | CSV contains Adjusted Budget figures for each FY
 
 ## Contributions 
 
